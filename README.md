@@ -1,6 +1,3 @@
-Sure! Here's a revised version of the README that focuses on explaining how the project works and the benefits, without mentioning the specific tech stack:
-
----
 
 # **AI Resume Analyser with NLP on Streamlit**
 
