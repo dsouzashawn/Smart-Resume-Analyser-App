@@ -58,10 +58,6 @@ The application works in the following steps:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure that your changes are well-documented and tested.
 
-## License
 
-This project is open-source and available under the MIT License.
 
----
 
-This version of the README gives a clear and concise explanation of how the project works and outlines its key benefits. Let me know if you'd like to make any further adjustments!
